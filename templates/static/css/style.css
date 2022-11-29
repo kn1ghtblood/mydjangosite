@@ -1,0 +1,11 @@
+html {
+    background-color: cyan;
+    background-size: contain;
+}
+
+.new {
+    align-items: center;
+    /* background-color: red; */
+    text-align: center;
+    border: 3px solid lightgreen;
+}
